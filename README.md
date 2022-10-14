@@ -1,1 +1,1 @@
-"# sippsavatarbox" 
+refer to README.md for readme
