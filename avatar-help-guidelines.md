@@ -61,5 +61,5 @@ can be trusted and may agree to help you with this if you aren't sure.
 
 *Footnotes*
 - We will not provide support for ripped/stolen avatars or other 'illegal' assets.
-- If you don't know what a help vampire is, check out this article: https://slash7.com/2006/12/22/vampires/ (the language is dated, but the concepts hold up)
+- If you don't know what a help vampire is, check out this article: slash7.com/2006/12/22/vampires/ (the language is dated, but the concepts hold up)
 - If you are dissatisfied, you can request a refund at any time.
