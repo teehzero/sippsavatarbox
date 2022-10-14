@@ -22,7 +22,7 @@ __**You agree to, and will be subject to these rules whether you read them or no
 These mods will take DMs for abuse issues:
 
 	- @Teeh#0783
-	- 
+
 If a mod is not on this list, do not DM them.
 
 
