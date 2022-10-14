@@ -2,11 +2,6 @@ You will save Helpers time, and get a fix faster if you read and follow these gu
 This should take less than ten minutes to read in its entirety. Reference this as often as you need.
 
 
-
-**φ. Harassing or insulting Helpers is always uncalled for, is not okay, and will __never be tolerated__.**
-
-
-
 __**Before you ask for help:**__
     **0.** Search on Google. Search the help archives. Please, don't be a help vampire.
     **1.** If your problem is an error, gather as much debug information as you can. (more on debug below)
@@ -35,11 +30,11 @@ __**When asking for help:**__
 
 
 __**When getting help:**__
+    **φ. Harassing or insulting Helpers is always uncalled for, is not okay, and will __never be tolerated__.**
     **1. Be patient.** - Troubleshooting is by its very nature complex, and requires a lot of back and forth.
     **2. Be respectful.** - If a helper is unable to help you, __thank them anyway.__ We're more likely to call reinforcements if you're pleasant.
     **3. Be realistic.** - You are here to receive __help__. We will not rig, retexture, or build your avatar for you.
-    **4. Be reasonable.** - We are, however, willing to help you with the tools to do this work yourself.
-    **5. Be willing to learn.** - Because of how complex the tools we have to work with are, your help might look like homework.
+    **4. Be willing to learn.** - Because of how complex the tools we have to work with are, your help might look like homework.
 
 
 
