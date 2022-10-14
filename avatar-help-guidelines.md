@@ -1,4 +1,4 @@
-You will save Helpers time, and get a fix faster if you read and follow these guidelines.
+You will get a fix faster, and save everyone time, if you read and follow these guidelines.
 This should take less than ten minutes to read in its entirety. Reference this as often as you need.
 
 
