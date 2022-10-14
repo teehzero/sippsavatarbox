@@ -18,7 +18,7 @@ These mods will take DMs for abuse issues:
 
 If a mod is not on this list, do not DM them.
 
-There is room for interpretation in some of these rules. This is by design. Ideally, everyone just acts decently to each other and we don't even have to revisit these. If you accidentally cross a line - hey, it happens - apologize and make it right. For bad actors, though, moderation is at-discretion. What does that mean? Well, if you harass or disrespect an avatar helper, for example, Sippbox might hit you with a 3 day mute. Teeh, on the other hand, ~~might~~ will just ban you.
+There is room for interpretation in some of these rules. This is by design. Ideally, everyone just acts decently to each other and we don't even have to revisit these. If you accidentally cross a line - hey, it happens - apologize and make it right. For bad actors, though, moderation is at-discretion. What does that mean? Well, if you harass or disrespect an avatar helper, for example, I might hit you with a 3 day mute. Teeh, on the other hand, ~~might~~ will just ban you.
 
 There are no loopholes. There is no warning system. There is no appeal process.
 If you're here to make friends and have a good time - welcome! We're glad to have you here!
