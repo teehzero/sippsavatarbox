@@ -3,7 +3,8 @@ __**READ ENCLOSED GUIDELINES BEFORE POSTING. *NO EXCEPTIONS!***__
 
 - **Follow Discord ToS** - Found at discord.com/terms
 - **Follow Discord Community Guidelines** - Found at discord.com/guidelines
-- **We respect software licenses** - No hacks, no cracks, no stolen/ripped content.
+- **Follow VRChat ToS** - No discussion of client mods, SDK hacks, stolen/ripped content, etc.
+- **We respect software licenses** - No hacks, no cracks, no stolen/ripped content, etc.
 - **Be respectful** - Everyone here is a human being that deserves a base level of respect.
 - **Use appropriate channels** - Don't request avatar help outside of #avatar-help, for example.
 - **No spam** - Use complete sentences. Share complete thoughts.
@@ -15,12 +16,13 @@ Mods can be reached by pinging @active chat mod
 These mods have agreed to directly take DMs for abuse issues:
 
 	- @Teeh#0783
+	- @Sippbox#1027
 
 If a mod is not on this list, do not DM them.
 
-There is room for interpretation in some of these rules. This is by design. Ideally, everyone just acts decently to each other and we don't even have to revisit these. If you accidentally cross a line - hey, it happens - apologize and make it right. For bad actors, though, moderation is at-discretion. What does that mean? Well, if you harass or disrespect an avatar helper, for example, I might hit you with a 3 day mute. Teeh, on the other hand, ~~might~~ will just ban you.
+There is room for interpretation in some of these rules. This is by design. Ideally, everyone just acts decently to each other and we don't even have to revisit these. If you accidentally cross a line - hey, it happens - apologize and make it right. For bad actors, though, moderation is at-discretion.
 
-There are no loopholes. There is no warning system. There is no appeal process.
 If you're here to make friends and have a good time - welcome! We're glad to have you here!
-If you're here to cause trouble, maybe just go touch some grass instead.
-Have fun!
+If you're just here to cause trouble, however, we'll be glad to show you the door.
+
+With that all being said, enjoy your time here!
