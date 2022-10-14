@@ -3,6 +3,10 @@ This should take less than ten minutes to read in its entirety. Reference this a
 
 
 
+**φ. Harassing or insulting Helpers is always uncalled for, is not okay, and will __never be tolerated__.**
+
+
+
 __**Before you ask for help:**__
 **0.** Search on Google. Search the help archives. Please, don't be a help vampire.
 **1.** If your problem is an error, gather as much debug information as you can. (more on debug below)
@@ -25,6 +29,8 @@ If you need a starting point, try answering some of these (helpful but optional)
 *c.* What is the behavior you are expecting? What is happening instead?
 *d.* Does the error happen every time?
 *e.* What have you already tried?
+**3.** Don't expect anyone to put *more* effort into solving your problem than you put into explaining and presenting it.
+**4.** Keep in mind we provide assistance on a best-effort basis - meaning we try our best, but can't guarantee anything.
 
 
 
@@ -55,4 +61,5 @@ can be trusted and may agree to help you with this if you aren't sure.
 
 *Footnotes*
 - We will not provide support for ripped/stolen avatars or other 'illegal' assets.
-- Harassing or insulting Helpers is always uncalled for, is not okay, and will __never be tolerated__.
+- If you don't know what a help vampire is, check out this article: https://slash7.com/2006/12/22/vampires/ (the language is dated, but the concepts hold up)
+- If you are dissatisfied, you can request a refund at any time.
