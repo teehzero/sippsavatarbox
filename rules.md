@@ -12,7 +12,7 @@ __**READ ENCLOSED GUIDELINES BEFORE POSTING. *NO EXCEPTIONS!***__
 - **Breaking rules 'ironically' will lead to super-hilarious meta-post-ironic bans.**
 
 Mods can be reached by pinging @[you'll have to manually insert the active chat mod handle here].
-These mods will take DMs for abuse issues:
+These mods have agreed to directly take DMs for abuse issues:
 
 	- @Teeh#0783
 
