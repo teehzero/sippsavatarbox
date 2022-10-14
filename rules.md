@@ -23,4 +23,3 @@ There is room for interpretation in some of these rules. This is by design. Idea
 There are no loopholes. There is no warning system. There is no appeal process.
 If you're here to make friends and have a good time - welcome! We're glad to have you here!
 If you're here to cause trouble, maybe just go touch some grass instead.
-Have fun!
