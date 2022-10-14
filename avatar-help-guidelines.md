@@ -45,7 +45,7 @@ __**After getting help:**__
 
 
 
-__**Debug information**___
+__**Debug information**__
 1. VRChat debug menu: Action Menu -> Options - > Config -> Debug. Make a screenshot of the __whole__ thing!
 2. SDK Errors, including popups and console messages.
 3. Unity Error console.
@@ -53,8 +53,6 @@ __**Debug information**___
 you don't want to publish to the world before you post. Users with "Active Chat Mod" and "Avatar Helper" roles
 can be trusted and may agree to help you with this if you aren't sure. 
 
-**Other things that might be helpful**
-Where did you get the avatar? Was it originally set up for SDK2? Was it set up at all?
-
-***DO NOT DELETE YOUR MESSAGES. This makes it difficult for users to find an answer to their problem in the future.***
-***We will not provide support for stolen/ripped avatars.***
+*Footnotes*
+- We will not provide support for ripped/stolen avatars or other 'illegal' assets.
+- Harassing or insulting Helpers is always uncalled for, is not okay, and will __never be tolerated__.
