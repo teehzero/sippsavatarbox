@@ -1,12 +1,10 @@
 __**HELP WITH AVATARS, BLENDER, UNITY, ETC. GOES IN #avatar-help.**__
-
 __**READ ENCLOSED GUIDELINES BEFORE POSTING. *NO EXCEPTIONS!***__
 
-
-
 __**You agree to, and will be subject to these rules whether you read them or not.**__
-- **Follow Discord ToS** - Found at https://discord.com/terms
-- **Follow Discord Community Guidelines** - Found at https://discord.com/guidelines
+
+- **Follow Discord ToS** - Found at discord.com/terms
+- **Follow Discord Community Guidelines** - Found at discord.com/guidelines
 - **We respect software licenses** - No hacks, no cracks, no stolen/ripped content.
 - **Be respectful** - Everyone here is a human being that deserves a base level of respect.
 - **Use appropriate channels** - Don't request avatar help outside of #avatar-help, for example.
@@ -15,10 +13,7 @@ __**You agree to, and will be subject to these rules whether you read them or no
 - **Discrimination based on personally identifying characteristics will not be tolerated.**
 - **Breaking rules 'ironically' will lead to super-hilarious meta-post-ironic bans.**
 
-
-
-**Mods can be reached by pinging @[you'll have to manually insert the active chat mod handle here].**
-
+Mods can be reached by pinging @[you'll have to manually insert the active chat mod handle here].
 These mods will take DMs for abuse issues:
 
 	- @Teeh#0783
@@ -31,3 +26,4 @@ There is room for interpretation in some of these rules. This is by design. Idea
 There are no loopholes. There is no warning system. There is no appeal process.
 If you're here to make friends and have a good time - welcome! We're glad to have you here!
 If you're here to cause trouble, maybe just go touch some grass instead.
+Have fun!
