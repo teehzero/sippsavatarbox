@@ -12,7 +12,7 @@ __**READ ENCLOSED GUIDELINES BEFORE POSTING. *NO EXCEPTIONS!***__
 - **Discrimination based on personally identifying characteristics will not be tolerated.**
 - **Breaking rules 'ironically' will lead to super-hilarious meta-post-ironic bans.**
 
-Mods can be reached by pinging @active chat mod
+Mods can be reached by pinging @Active Chat Mod
 These mods have agreed to directly take DMs for abuse issues:
 
 	- @Teeh#0783
@@ -26,3 +26,5 @@ If you're here to make friends and have a good time - welcome! We're glad to hav
 If you're just here to cause trouble, however, we'll be glad to show you the door.
 
 With that all being said, enjoy your time here!
+
+Permanent Invite Link: https://discord.gg/sippbox
