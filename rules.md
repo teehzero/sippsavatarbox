@@ -1,8 +1,6 @@
 __**HELP WITH AVATARS, BLENDER, UNITY, ETC. GOES IN #avatar-help.**__
 __**READ ENCLOSED GUIDELINES BEFORE POSTING. *NO EXCEPTIONS!***__
 
-__**You agree to, and will be subject to these rules whether you read them or not.**__
-
 - **Follow Discord ToS** - Found at discord.com/terms
 - **Follow Discord Community Guidelines** - Found at discord.com/guidelines
 - **We respect software licenses** - No hacks, no cracks, no stolen/ripped content.
