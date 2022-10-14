@@ -12,6 +12,7 @@ __**READ ENCLOSED GUIDELINES BEFORE POSTING. *NO EXCEPTIONS!***__
 - **Discrimination based on personally identifying characteristics will not be tolerated.**
 - **Breaking rules 'ironically' will lead to super-hilarious meta-post-ironic bans.**
 
+
 Mods can be reached by pinging @Active Chat Mod
 These mods have agreed to directly take DMs for abuse issues:
 
