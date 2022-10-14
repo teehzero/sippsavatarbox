@@ -15,10 +15,12 @@ __**READ ENCLOSED GUIDELINES BEFORE POSTING. *NO EXCEPTIONS!***__
 Mods can be reached by pinging @Active Chat Mod
 These mods have agreed to directly take DMs for abuse issues:
 
-	- @Teeh#0783
 	- @Sippbox#1027
+    - @Colefreezer#8008
+	- @Teeh#0783
 
 If a mod is not on this list, do not DM them.
+
 
 There is room for interpretation in some of these rules. This is by design. Ideally, everyone just acts decently to each other and we don't even have to revisit these. If you accidentally cross a line - hey, it happens - apologize and make it right. For bad actors, though, moderation is at-discretion.
 
