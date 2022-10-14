@@ -1,1 +1,1 @@
-refer to README.md for readme
+DEPRECATED: refer to README.md for readme
